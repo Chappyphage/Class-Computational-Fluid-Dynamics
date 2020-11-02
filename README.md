@@ -16,7 +16,12 @@
 
 <img src="https://github.com/Chappyphage/Class-Computational-Fluid-Dynamics/blob/main/formula/hiteijyoukou.png?raw=true" width="120">   
 
-以上により離散化した移流拡散方程式を以下に示す．  
+以上により陰解法によって離散化した移流拡散方程式を以下に示す．  
 
 <img src="https://github.com/Chappyphage/Class-Computational-Fluid-Dynamics/blob/main/formula/risanka_1.png?raw=true" width="570">
  
+
+上式をuで整理すると以下のようになる．
+
+<img src="https://github.com/Chappyphage/Class-Computational-Fluid-Dynamics/blob/main/formula/resanka_2.png?raw=true" width="650">
+
