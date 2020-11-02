@@ -32,3 +32,11 @@
 離散化した移流拡散方程式についてkで整理すると以下のようになる．
 
 <img src="https://github.com/Chappyphage/Class-Computational-Fluid-Dynamics/blob/main/formula/inkaihou_risanka.png?raw=true" width="650">
+
+これらを以下のように定義する．
+
+<img src="https://github.com/Chappyphage/Class-Computational-Fluid-Dynamics/blob/main/formula/a_teigi.png?raw=true" width="450">
+
+よって以下のような連立一次方程式を求める問題に帰着する．
+
+<img src="https://github.com/Chappyphage/Class-Computational-Fluid-Dynamics/blob/main/formula/gyouretsu.png?raw=true" width="650">
