@@ -2,3 +2,4 @@
 
 移流拡散方程式を実装する  
 ![iryu_kakusan](./formula/iryu_kakusan.png)
+<img src="画像のURL" width="320">
