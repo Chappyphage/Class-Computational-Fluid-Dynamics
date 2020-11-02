@@ -25,3 +25,10 @@
 
 <img src="https://github.com/Chappyphage/Class-Computational-Fluid-Dynamics/blob/main/formula/resanka_2.png?raw=true" width="650">
 
+ここでi,jのインデックスを以下の式でkに置き換えることで1次元化する．
+
+<img src="https://github.com/Chappyphage/Class-Computational-Fluid-Dynamics/blob/main/formula/index.png?raw=true" width="150">
+
+離散化した移流拡散方程式についてkで整理すると以下のようになる．
+
+<img src="https://github.com/Chappyphage/Class-Computational-Fluid-Dynamics/blob/main/formula/inkaihou_risanka.png?raw=true" width="650">
