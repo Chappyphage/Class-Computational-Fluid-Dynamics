@@ -37,6 +37,8 @@
 
 <img src="https://github.com/Chappyphage/Class-Computational-Fluid-Dynamics/blob/main/formula/a_teigi.png?raw=true" width="450">
 
-よって以下のような連立一次方程式を求める問題に帰着する．
+よって以下のような連立1次方程式を求める問題に帰着する．
 
 <img src="https://github.com/Chappyphage/Class-Computational-Fluid-Dynamics/blob/main/formula/gyouretsu.png?raw=true" width="650">
+
+scipy.linalg.solveを使用して連立1次方程式を解いた結果を以下に示す．
