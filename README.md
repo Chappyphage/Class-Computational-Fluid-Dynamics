@@ -42,3 +42,7 @@
 <img src="https://github.com/Chappyphage/Class-Computational-Fluid-Dynamics/blob/main/formula/gyouretsu.png?raw=true" width="650">
 
 scipy.linalg.solveを使用して連立1次方程式を解いた結果を以下に示す．
+
+![demo](https://github.com/Chappyphage/Class-Computational-Fluid-Dynamics/blob/main/result/result.gif?raw=true)
+
+ステップ波が斜め方向に移流し拡散していく様子が確認できた．
